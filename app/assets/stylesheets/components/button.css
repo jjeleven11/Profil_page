@@ -31,7 +31,7 @@ section{
 	max-width:500px;
 	border: white solid 4px;
 	cursor: pointer;
-	background-color: #FF1493;
+	background-color: #8000ff;
 	margin-top: -4px;
 	color: white;
 	text-transform: uppercase;
@@ -51,7 +51,7 @@ section{
 /* Change text color & background opacity on hover*/
 #button-blue:hover{
 	background-color: rgba(0,0,0,0);
-	color: #FF1493;
+	color: #8000ff;
 }
 
 /* The white hover effect */
