@@ -1,24 +1,13 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Download or clone the repository
 
-Things you may want to cover:
+$ git clone https://github.com/jjeleven11/Profil_page.git
 
-* Ruby version
+Run the bundle command to install the gems
 
-* System dependencies
+$ bundle install
 
-* Configuration
+Run the server command to view it in local
 
-* Database creation
+$ rails s
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
